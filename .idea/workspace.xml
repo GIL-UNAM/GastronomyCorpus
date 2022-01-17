@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="affa605a-6640-4d66-ad4d-0371ad5d8a51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/03_kebab/parafrasis_kebab/ParafrasisAlta/KA_04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_kebab/parafrasis_kebab/ParafrasisAlta/KA_08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_kebab/parafrasis_kebab/ParafrasisAlta/KebabAlta_04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_kebab/parafrasis_kebab/ParafrasisAlta/KebabAlta_08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_ofrenda/parafrasis_ofrenda/NoOfrenda_11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_ofrenda/parafrasis_ofrenda/OfrendaBaja_11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_ofrenda/parafrasis_ofrenda/ParafrasisAlta/OA_11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_ofrenda/parafrasis_ofrenda/ParafrasisAlta/OfrendaAlta_11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_vegana/parafrasis_vegana/NoVegana_03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_vegana/parafrasis_vegana/NoVegana_09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_vegana/parafrasis_vegana/NoVegana_10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_vegana/parafrasis_vegana/ParafrasisAlta/VA_09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_vegana/parafrasis_vegana/ParafrasisAlta/VeganaAlta_09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_vegana/parafrasis_vegana/VeganaBaja_10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_carrito/parafrasis_carrito_txt/CarritoBaja_01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_carrito/parafrasis_carrito_txt/CarritoBaja_04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_carrito/parafrasis_carrito_txt/NoCarrito_01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_carrito/parafrasis_carrito_txt/NoCarrito_06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_carrito/parafrasis_carrito_txt/NoCarrito_08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_carrito/parafrasis_carrito_txt/ParafrasisAlta/CA_08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_carrito/parafrasis_carrito_txt/ParafrasisAlta/CarritoAlta_08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00_sushi/listaSushi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_cocina_molecular/ListaCocina.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_tequila/Tlista01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_kebab/Klista_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_kebab/parafrasis_kebab/NoKebab08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/03_kebab/parafrasis_kebab/NoKebab_08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_ofrenda/Olista_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_vegana/Vlista_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_carrito/CP_lista05.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23oqf0PvEuyZvUzkC8dpM1gvLdP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="affa605a-6640-4d66-ad4d-0371ad5d8a51" name="Changes" comment="" />
+      <created>1642410910772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642410910772</updated>
+    </task>
+    <servers />
+  </component>
+</project>
