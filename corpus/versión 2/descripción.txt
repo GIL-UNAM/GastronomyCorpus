@@ -1,0 +1,8 @@
+31-01-22
+
+El tamaño de los corpus quedó de la siguiente manera (considerando la relación 80%-20%):
+
+paráfrasis_entrenamiento:  1308
+no_paráfrasis_entrenamiento: 5232
+paráfrasis_evaluacion: 361
+no_paráfrasis_evaluacion: 1444

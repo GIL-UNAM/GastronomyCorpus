@@ -1,0 +1,24 @@
+Los archivos con nombre 'no_paráfrasis' contienen los pares de oraciones sin paráfrasis y con la similitud coseno más baja (calculada con Spacy). Se escogió el tamaño de cada archivo considerando que se quería mantener la relación 30% (paráfrasis) - 70% (no paráfrasis).
+Los archivos con nombre 'paráfrasis' contienen los pares de oraciones con paráfrasis. También se calculó la similitud coseno para estos pares, a pesar de que no excluir ningún par de oraciones, ya que estos pares sólo se alinearon utilizando las anotaciones manuales.
+El tamaño final de los archivos es:
+
+
+sushi
+cocina molecular
+tequila
+kebab
+ofrenda
+vegana
+carrito	
+
+
+| Número  | Nombre | paráfrasis.csv | no_paráfrasis.csv
+| ------------- | ------------- | ------------- | ------------- |
+| 1 |  sushi  | 166  | 387 |
+| 2 |  cocina molecular  | 648 | 1512 |
+| 3 | tequila | 175 | 408 |
+| 4 | kebab | 175 | 408 |
+| 5 | ofrenda | 200 | 467 |
+| 6 | vegana | 150 | 350 |
+| 7 |  carrito | 150 | 350 |
+| Total | Suma | 1664 | 3882 |
