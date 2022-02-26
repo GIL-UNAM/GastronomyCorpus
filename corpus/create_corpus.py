@@ -37,7 +37,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--input_path', help='ruta donde se encuentran los datos sin procesar')
     parser.add_argument('--output_path', help='ruta para guardar el corpus creado')
-    parser.add_argument('--train', type=bool, help='indica si se crea corpus de entrenamiento o prueba')
+    parser.add_argument('--train', type=bool, default=False, help='indica si se crea corpus de entrenamiento o prueba')
     args = parser.parse_args()
     create_dataset(args.input_path, args.output_path, args.train)
 
