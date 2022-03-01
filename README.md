@@ -25,3 +25,11 @@
 | Sushi | <ul><li>Paráfrasis: 116</li> <li>No paráfrasis: 270</li></ul> |  <ul><li>Paráfrasis: 50</li> <li>No paráfrasis: 117</li></ul> | 553 |
 | Tequila | <ul><li>Paráfrasis: 122</li> <li>No paráfrasis: 285</li></ul> |  <ul><li>Paráfrasis: 53</li> <li>No paráfrasis: 123</li></ul> | 583 |
 | Vegana | <ul><li>Paráfrasis: 105</li> <li>No paráfrasis: 244</li></ul> |  <ul><li>Paráfrasis: 45</li> <li>No paráfrasis: 106</li></ul> | 500 |  
+
+
+### Distribución final de los corpus de entrenamiento y evaluación
+
+| Corpus | Núm. pares de oraciones en total | Núm. pares de oraciones paráfrasis | Núm. pares de oraciones no paráfrasis 
+| --- | --- | --- | --- |
+| Entrenamiento | 7601 (100%) | 1501 (20%) | 6100 (80%) | 
+| Evaluación | 2942 (100%)) | 588 (20%)  | 2354 (80%) |
