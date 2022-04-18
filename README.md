@@ -53,6 +53,7 @@ Los demás textos tienen un prefijo más un identificador numérico para poder d
 Estos prefijos son los siguientes
 
 | Tipo de texto | prefijo | Ejemplo |
+|---|---|---|
 | Creación literaria | Creación | CreacionCocina_01.txt |
 | Paráfrasis baja | Baja | BajaKebab_01.txt |
 | Paráfrasis alta | Alta | AltaOfrenda_01.txt |
