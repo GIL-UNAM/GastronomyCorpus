@@ -33,3 +33,30 @@
 | --- | --- | --- | --- |
 | Entrenamiento | 7601 (100%) | 1501 (20%) | 6100 (80%) | 
 | Evaluación | 2942 (100%) | 588 (20%)  | 2354 (80%) |
+
+
+### Directorios del corpus
+
+Los corpus están divididos en carpetas distintas y se pueden ubicar de la siguiente manera.
+
+Los textos originales tienen el nombre del corpus:
+* sushi.txt
+* cocina.txt
+* tequila.txt
+* kebab.txt
+* ofrenda.txt
+* vegana.txt
+* carrito.txt
+
+Los demás textos tienen un prefijo más un identificador numérico para poder diferenciarlos.
+
+Estos prefijos son los siguientes
+
+| Tipo de texto | prefijo | Ejemplo |
+| Creación literaria | Creación | CreacionCocina_01.txt |
+| Paráfrasis baja | Baja | BajaKebab_01.txt |
+| Paráfrasis alta | Alta | AltaOfrenda_01.txt |
+| No paráfrasis | NoParafrasis | NoParafrasisVegana_01.txt |
+
+Dentro de cada carpeta, hay otra llamada ´references_parafrasisAlta´, en donde se encuentran las referencias de las paráfrasis altas.
+
