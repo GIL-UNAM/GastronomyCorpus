@@ -59,5 +59,5 @@ Estos prefijos son los siguientes
 | Paráfrasis alta | Alta | AltaOfrenda_01.txt |
 | No paráfrasis | NoParafrasis | NoParafrasisVegana_01.txt |
 
-Dentro de cada carpeta, hay otra llamada ´references_parafrasisAlta´, en donde se encuentran las referencias de las paráfrasis altas.
+Dentro de cada carpeta, hay otra llamada *references_parafrasisAlta*, en donde se encuentran las referencias de las paráfrasis altas.
 
