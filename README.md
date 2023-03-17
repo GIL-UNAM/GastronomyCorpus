@@ -61,3 +61,9 @@ Estos prefijos son los siguientes
 
 Dentro de cada carpeta, hay otra llamada *references_parafrasisAlta*, en donde se encuentran las referencias de las paráfrasis altas.
 
+
+## Aknowledgments
+The work was done with partial support of CONACYT project A1-S-27780 and UNAM-PAPIIT projects TA400121, TA100520, AG400119.
+
+## License
+[CC0 1.0 Universal](https://choosealicense.com/licenses/cc0-1.0/)
