@@ -1,4 +1,5 @@
 # GastronomyCorpus
+![GitHub](https://img.shields.io/github/license/GIL-UNAM/SpanishParaphraseCorpora)
 
 ## Corpus 
 * Se tienen los siguientes corpus
